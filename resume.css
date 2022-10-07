@@ -71,3 +71,15 @@ a#pdf:hover { background: #222; }
 .yui-gf .yui-u{width:80.2%;}
 .yui-gf div.first{width:12.3%;}
 
+/* image fix  stars here  */
+.img-cont{
+ width: 10em;
+ height: 10em;
+}
+
+.img-cont img{
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+ border-radius: 50%;
+}
