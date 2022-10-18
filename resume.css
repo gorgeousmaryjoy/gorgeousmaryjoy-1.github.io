@@ -78,8 +78,8 @@ a#pdf:hover { background: #222; }
 }
 
 .img-cont img{
- width: 50%;
- height: 50%;
+ width: 10 px;
+ height:10 px;
  object-fit: cover;
  border-radius: 50%;
 }
